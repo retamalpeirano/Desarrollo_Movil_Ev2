@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Evaluacion1RodrigoRetamal</string>
+
+    <string name="ContentDescriptionImage">Imagen</string>
+
+    <string name="PreferencesFormTitle">Encuesta de Preferencias</string>
+    <string name="PreferencesNameInput">Ingrese su Nombre</string>
+
+    <string name="RadButtonOption1">Una vez por semana</string>
+    <string name="RadButtonOption2">Tres veces por semana</string>
+    <string name="RadButtonOption3">Todos los días</string>
+
+    <string-array name="preferences_spinner_items">
+        <item>Completos</item>
+        <item>Pizza</item>
+        <item>Sushi</item>
+        <item>Fruta</item>
+    </string-array>
+
+    <string name="ComidaFavorita">¿Cuál es tu comida favorita?</string>
+    <string name="FrecuenciaComida">¿Con qué frecuencia la consumes?</string>
+
+    <string name="SendButton">Enviar</string>
+
+</resources>
