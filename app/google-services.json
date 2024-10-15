@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736090157785",
+    "project_id": "learning-project-9c979",
+    "storage_bucket": "learning-project-9c979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736090157785:android:6e9f7576f89429e52304c8",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion1rodrigoretamal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJvp3uY8Ajx_3Mf1ExO-xwj3XcU69iNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
